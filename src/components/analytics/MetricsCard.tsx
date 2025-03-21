@@ -58,6 +58,7 @@ const MetricsCard = ({
             <div className="flex items-center space-x-2">
               <div className={cn("flex items-center text-xs", getTrendColor())}>
                 {getTrendIcon()}
+                // this is krishna
                 <span className="ml-1">
                   {percentageChange !== undefined
                     ? `${Math.abs(percentageChange)}%`

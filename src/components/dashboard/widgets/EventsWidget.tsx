@@ -168,6 +168,7 @@ const EventsWidget = ({
   onViewAll = () => {},
 }: EventsWidgetProps) => {
   return (
+    // this is krishna
     <Card className="w-full h-full bg-white">
       <CardHeader>
         <div className="flex justify-between items-center">

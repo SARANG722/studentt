@@ -72,6 +72,7 @@ const AnalyticsPage = () => {
     { name: "Conference", value: 15 },
     { name: "Other", value: 5 },
   ];
+  // this is krishna
 
   const chapterEngagementData = [
     { name: "Engineering", engagement: 85, members: 45 },

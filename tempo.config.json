@@ -12,6 +12,7 @@
       ],
       "previewClasses": ["text-3xl", "font-extrabold", "tracking-tight"]
     },
+    
     {
       "name": "Header 2",
       "preview": "Aa",

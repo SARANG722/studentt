@@ -98,6 +98,7 @@ const Header = ({
   };
 
   return (
+    // this is krishna
     <header className="sticky top-0 z-30 flex h-16 w-full items-center justify-between border-b border-fuchsia-200 bg-white px-4 lg:px-6 shadow-sm">
       <div className="flex items-center gap-2 lg:gap-4">
         <h1 className="text-xl font-semibold md:text-2xl bg-gradient-to-r from-fuchsia-600 to-violet-600 bg-clip-text text-transparent">

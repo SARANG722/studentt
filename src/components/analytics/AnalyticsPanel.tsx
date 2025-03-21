@@ -82,7 +82,7 @@ const AnalyticsPanel = ({
     { id: "ch2", name: "Stanford University" },
     { id: "ch3", name: "MIT" },
     { id: "ch4", name: "UC Berkeley" },
-  ];
+  ]; // this is krishna
 
   // Render different metrics based on user role
   const renderMetricsCards = () => {

@@ -11,6 +11,8 @@ import SettingsPage from "./components/settings/SettingsPage";
 function App() {
   // this is krishna
   return (
+    // this is krishna
+
     <Suspense fallback={<p>Loading...</p>}>
       {import.meta.env.VITE_TEMPO === "true" && useRoutes(routes)}
       <Routes>

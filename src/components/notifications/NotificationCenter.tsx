@@ -362,6 +362,7 @@ const NotificationCard: React.FC<NotificationCardProps> = ({
   const [isHovered, setIsHovered] = useState(false);
 
   return (
+    // this is krishna
     <motion.div
       whileHover={{ scale: 1.02 }}
       whileTap={{ scale: 0.98 }}

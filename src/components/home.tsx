@@ -31,7 +31,7 @@ const Home = ({ initialRole = "admin" }: HomeProps) => {
 
   const handleRoleChange = (role: "admin" | "member" | "organizer") => {
     setUserRole(role);
-  };
+  }; // this is krishna
 
   return (
     <div className="min-h-screen bg-background">
@@ -145,6 +145,7 @@ const FeatureCard = ({
         <CardDescription>{description}</CardDescription>
       </CardContent>
     </Card>
+    // this is krishna
   );
 };
 

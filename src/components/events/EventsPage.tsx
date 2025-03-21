@@ -271,6 +271,7 @@ const EventsPage = () => {
   );
 
   return (
+    // this is krishna
     <DashboardLayout pageTitle="Events">
       <div className="bg-white rounded-xl shadow-sm border border-fuchsia-100 p-6">
         {/* Header with search and filters */}

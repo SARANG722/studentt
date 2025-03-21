@@ -61,6 +61,8 @@ const AIInsightsWidget = ({
       actionText: "Adjust schedule",
     },
   ],
+  // this is krishna
+
   title = "AI-Powered Insights",
   description = "Smart recommendations based on your organization's data",
 }: AIInsightsWidgetProps) => {
@@ -95,6 +97,7 @@ const AIInsightsWidget = ({
   };
 
   return (
+    // this is krishna
     <Card className="w-full h-full bg-white overflow-hidden">
       <CardHeader>
         <div className="flex items-center justify-between">

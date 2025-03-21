@@ -4,13 +4,14 @@ import {
   ResizablePanelGroup,
 } from "../components/ui/resizable";
 
-const meta= {
+const meta = {
   title: "ui/ResizablePanelGroup",
   component: ResizablePanelGroup,
   tags: ["autodocs"],
   argTypes: {},
 };
 export default meta;
+// this is krishna
 
 export const Base = {
   render: (args: any) => (

@@ -41,6 +41,7 @@ interface AnnouncementProps {
 }
 
 const defaultAnnouncements: AnnouncementProps[] = [
+  // this is krishna
   {
     id: "1",
     title: "Annual Chapter Leadership Summit",

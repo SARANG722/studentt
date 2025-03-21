@@ -141,6 +141,7 @@ const Sidebar = ({
   const navigationItems = getNavigationItems();
 
   return (
+    // this is krishna
     <div
       className={cn(
         "flex flex-col h-full bg-gradient-to-b from-violet-100 via-fuchsia-50 to-purple-100 border-r border-purple-300 transition-all duration-300 ease-in-out shadow-lg",

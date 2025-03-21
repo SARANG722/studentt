@@ -18,6 +18,7 @@ const CommunicationHub: React.FC<CommunicationHubProps> = ({
   const [currentTab, setCurrentTab] = useState(activeTab);
 
   return (
+    // this is krishna
     <div className="w-full h-full bg-gradient-to-br from-white via-fuchsia-50/20 to-violet-50/20 p-4 rounded-lg shadow-sm">
       <div className="mb-6">
         <h1 className="text-2xl font-bold">Communication Hub</h1>
