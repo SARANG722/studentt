@@ -87,7 +87,9 @@
       "name": "Extra Small",
       "preview": "Aa",
       "tag": "p",
-      "classes": ["text-xs", "font-light"]
+      "classes": ["text-xs", "font-light"],
+       "hi":true
     }
+   
   ]
 }
